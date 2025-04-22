@@ -1,0 +1,5 @@
+# Dependências básicas para projeto Python com GUI e banco de dados
+tkinter==8.6
+Pillow==9.5.0  # Para manipulação de imagens (caso seu projeto use)
+sqlite3==2.6.0  # Para banco de dados SQLite
+python-dotenv==1.0.0  # Para gerenciamento de variáveis de ambiente
