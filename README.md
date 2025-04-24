@@ -1,4 +1,4 @@
-#-🕊️ Igreja – Assistente Virtual para PC
+#Igreja – Assistente Virtual para PC
 
 **Igreja** é um assistente virtual pessoal com foco em automação de tarefas no Windows. Desenvolvido em Python, ele escuta comandos de voz, responde com fala natural e executa ações no seu computador
 
